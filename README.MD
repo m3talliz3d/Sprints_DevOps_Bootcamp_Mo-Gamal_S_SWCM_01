@@ -6,3 +6,5 @@ Line 3 on branch feature
 Line 4 on branch feature
 #### THIS LINE SHOULD BE ON END OF LINE ####
 Below will be steps for new branch
+
+Will create a bug branch
